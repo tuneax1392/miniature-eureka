@@ -1,0 +1,28 @@
+[2024/07/02 23:56:34] CreateDirectory: "C:\Program Files (x86)\VulkanRT" created
+[2024/07/02 23:56:34] Call: 184
+[2024/07/02 23:56:34] File: overwriteflag=1, allowskipfilesflag=2, name="C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll"
+[2024/07/02 23:56:34] File: wrote 15360 to "C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll"
+[2024/07/02 23:56:34] Call: 184
+[2024/07/02 23:56:34] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll"
+[2024/07/02 23:56:34] File: skipped: "C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll" (overwriteflag=1)
+[2024/07/02 23:56:34] Call: 184
+[2024/07/02 23:56:34] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll"
+[2024/07/02 23:56:34] File: skipped: "C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll" (overwriteflag=1)
+[2024/07/02 23:56:34] Call: 184
+[2024/07/02 23:56:34] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll"
+[2024/07/02 23:56:34] File: skipped: "C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll" (overwriteflag=1)
+[2024/07/02 23:56:34] Call: 184
+[2024/07/02 23:56:34] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll"
+[2024/07/02 23:56:34] File: skipped: "C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll" (overwriteflag=1)
+[2024/07/02 23:56:34] Call: 184
+[2024/07/02 23:56:34] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll"
+[2024/07/02 23:56:34] File: skipped: "C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll" (overwriteflag=1)
+[2024/07/02 23:56:34] Call: 184
+[2024/07/02 23:56:34] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll"
+[2024/07/02 23:56:34] File: skipped: "C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll" (overwriteflag=1)
+[2024/07/02 23:56:34] Call: 184
+[2024/07/02 23:56:34] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll"
+[2024/07/02 23:56:34] File: skipped: "C:\Users\73B5~1\AppData\Local\Temp\nsvAF44.tmp\AccessControl.dll" (overwriteflag=1)
+[2024/07/02 23:56:34] File: overwriteflag=0, allowskipfilesflag=2, name="VulkanRT-License.txt"
+[2024/07/02 23:56:34] File: wrote 3633 to "C:\Program Files (x86)\VulkanRT\VulkanRT-License.txt"
+[2024/07/02 23:56:34] settings logging to 0
